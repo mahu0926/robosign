@@ -1,0 +1,2 @@
+speech to text, text to image, image to points, points reflected on robot
+
